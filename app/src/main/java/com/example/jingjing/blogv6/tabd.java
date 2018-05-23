@@ -27,7 +27,7 @@ public class tabd extends RelativeLayout {
     }
 
     public void openest() {
-        Log.e("kkk", "Button clicked");
+        Log.e("iii", "Button clicked");
         button.setText("I'm clicked!");
     }
 }
